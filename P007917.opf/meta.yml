@@ -1,15 +1,16 @@
-id: opecha:P007917
+id: P007917
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG24747
   title: གེ་སར་རིག་པའི་སློབ་དེབ།
-  volume:
+  author: ''
+  volumes:
     940568aa105c401f80e6f14ef0de5fe3:
       image_group_id: I1KG24749
       title: Volume 1 of ge ser rig pa'i slob deb/
       volume_number: 1
       total_pages: 677
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: གེ་སར་རིག་པའི་སློབ་དེབ།
   author: ''
