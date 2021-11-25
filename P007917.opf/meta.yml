@@ -1,5 +1,7 @@
 id: P007917
 initial_creation_type: ocr
+created_at: 22/03/2020
+last_modified_at: 25/11/2021
 source_metadata:
   id: bdr:W1KG24747
   title: གེ་སར་རིག་པའི་སློབ་དེབ།
@@ -11,10 +13,3 @@ source_metadata:
       volume_number: 1
       total_pages: 677
       base_file: v001.txt
-ebook_metadata:
-  title: གེ་སར་རིག་པའི་སློབ་དེབ།
-  author: ''
-  sku: P007917
-  cover: cover.jpg
-  layers:
-  - pagination
